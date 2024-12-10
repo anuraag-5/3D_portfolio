@@ -23,7 +23,8 @@ import {
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    logo
 } from "../assets/icons";
 
 export const skills = [
@@ -190,13 +191,13 @@ export const projects = [
     //     description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
     //     link: 'https://github.com/adrianhajdin/pricewise',
     // },
-    // {
-    //     iconUrl: threads,
-    //     theme: 'btn-back-green',
-    //     name: 'Full Stack Threads Clone',
-    //     description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    //     link: 'https://github.com/adrianhajdin/threads',
-    // },
+    {
+        iconUrl: logo,
+        theme: 'btn-back-green',
+        name: 'Full Stack Modern Bank Web-App',
+        description: 'Created a full-stack modern bank platfrom.',
+        link: 'https://hoobank-xi-gilt.vercel.app/',
+    },
     // {
     //     iconUrl: car,
     //     theme: 'btn-back-blue',
