@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, starbucks, tesla, logoAora } from "../assets/images";
 import {
     car,
     contact,
@@ -212,13 +212,13 @@ export const projects = [
         description: 'Built a social media web application, allowing users to share photos and connect with friends in a familiar social media environment.',
         link: 'https://zin-sepia.vercel.app/',
     },
-    // {
-    //     iconUrl: estate,
-    //     theme: 'btn-back-black',
-    //     name: 'Real-Estate Application',
-    //     description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-    //     link: 'https://github.com/adrianhajdin/projects_realestate',
-    // },
+    {
+        iconUrl: logoAora,
+        theme: 'btn-back-black',
+        name: 'Video streaming application',
+        description: 'Developed a mobile application for uploading videos, streaming videos online.',
+        link: 'https://drive.google.com/file/d/1Ci3VmJ-1vs603zZlkWzxQUfVO4Q0l6rD/view?usp=sharing',
+    },
     // {
     //     iconUrl: summiz,
     //     theme: 'btn-back-yellow',
