@@ -190,7 +190,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'DropStream',
         description: 'Developed a DROPBOX inspired web application where users can seamlessly upload and manage their files.',
-        link: 'https://github.com/anuraag-5/dropstream',
+        link: 'https://dropstream.vercel.app/',
     },
     {
         iconUrl: logo,
