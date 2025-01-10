@@ -24,7 +24,8 @@ import {
     tailwindcss,
     threads,
     typescript,
-    logo
+    logo,
+    logofull
 } from "../assets/icons";
 
 export const skills = [
@@ -184,13 +185,13 @@ export const socialLinks = [
 ];
 
 export const projects = [
-    // {
-    //     iconUrl: pricewise,
-    //     theme: 'btn-back-red',
-    //     name: 'Amazon Price Tracker',
-    //     description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-    //     link: 'https://github.com/adrianhajdin/pricewise',
-    // },
+    {
+        iconUrl: logofull,
+        theme: 'btn-back-red',
+        name: 'DropStream',
+        description: 'Developed a DROPBOX inspired web application where users can seamlessly upload and manage their files.',
+        link: 'https://github.com/anuraag-5/dropstream',
+    },
     {
         iconUrl: logo,
         theme: 'btn-back-green',
