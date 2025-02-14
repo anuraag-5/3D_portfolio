@@ -28,6 +28,7 @@ import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import logo from './logo.svg'
 import logofull from './logofull.svg'
+import BrandLogo from './BrandLogo.svg'
 
 export {
     css,
@@ -59,5 +60,6 @@ export {
     soundon,
     soundoff,
     logo,
-    logofull
+    logofull,
+    BrandLogo
 }

@@ -25,7 +25,8 @@ import {
     threads,
     typescript,
     logo,
-    logofull
+    logofull,
+    BrandLogo
 } from "../assets/icons";
 
 export const skills = [
@@ -199,13 +200,13 @@ export const projects = [
         description: 'Created a full-stack modern bank platfrom.',
         link: 'https://hoobank-xi-gilt.vercel.app/',
     },
-    // {
-    //     iconUrl: car,
-    //     theme: 'btn-back-blue',
-    //     name: 'Car Finding App',
-    //     description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-    //     link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
-    // },
+    {
+        iconUrl: car,
+        theme: 'btn-back-black',
+        name: 'MyWall',
+        description: 'Designed and built a visually appealing web-based wallet app similar to Phantom wallet.',
+        link: 'https://mywall-zeta.vercel.app/',
+    },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
