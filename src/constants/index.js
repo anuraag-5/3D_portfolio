@@ -187,6 +187,13 @@ export const socialLinks = [
 
 export const projects = [
     {
+        iconUrl: BrandLogo,
+        theme: 'btn-back-black',
+        name: 'MyWall',
+        description: 'Designed and built a visually appealing web-based wallet app similar to Phantom wallet.',
+        link: 'https://mywall-zeta.vercel.app/',
+    },
+    {
         iconUrl: logofull,
         theme: 'btn-back-red',
         name: 'DropStream',
@@ -199,13 +206,6 @@ export const projects = [
         name: 'Full Stack Modern Bank Web-App',
         description: 'Created a full-stack modern bank platfrom.',
         link: 'https://hoobank-xi-gilt.vercel.app/',
-    },
-    {
-        iconUrl: car,
-        theme: 'btn-back-black',
-        name: 'MyWall',
-        description: 'Designed and built a visually appealing web-based wallet app similar to Phantom wallet.',
-        link: 'https://mywall-zeta.vercel.app/',
     },
     {
         iconUrl: snapgram,
